@@ -47,7 +47,7 @@ print(count)
 
 #Строки в Python
 #1
-print("Строки в Python \n Задание 1")
+print("Строки в Python \nЗадание 1")
 s1 = "Python"
 s2 = 'Программирование'
 print(s1 + " " + s2)
