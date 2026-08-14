@@ -1,0 +1,33 @@
+a = [21, 425, 342, 12, 42, 214, 425, 12.313]
+# print(a)
+# a.append(32)
+# a.append("ffse")
+# a.append(True)
+# a.append([True, False])
+# print(a)
+# a.insert(1, 55)
+# print(a)
+#
+# # a.remove(True)
+# print(a)
+# last_el = a.pop()
+# print(last_el)
+# print(a)
+# index_el = a.pop(3)
+# print(a)
+# print(index_el)
+# #
+# # a.clear()
+# print(a)
+
+# b = a[:]
+# b = list(a)
+b = a.copy()
+print(a)
+print(b)
+print(a.count(21))
+print(a.index(425, 2))
+a.reverse()
+print(a)
+a.sort()
+print(a)

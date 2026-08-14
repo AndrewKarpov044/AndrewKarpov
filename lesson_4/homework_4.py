@@ -1,8 +1,8 @@
 #Задание1
-# print("Методы строк и print()\nЗадание1")
-# s = "Python для автоматизации"
-# print(s.upper())
-# print(s.lower())
+print("Методы строк и print()\nЗадание1")
+s = "Python для автоматизации"
+print(s.upper())
+print(s.lower())
 
 #Задание2
 print("Задание 2")
